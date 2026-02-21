@@ -314,9 +314,10 @@ ul { list-style: none; }
 /* ---------- Hero ---------- */
 .hero {
   /*change*/
-  margin-top: 3em;
+  margin-top: 2em;
   position: relative;
-  min-height: 100vh;
+  /*min-height adjustment*/
+  min-height: 120vh;
   display: grid;
   grid-template-columns: 1.1fr 0.9fr;
   align-items: center;
