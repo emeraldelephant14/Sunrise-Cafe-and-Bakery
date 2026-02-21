@@ -317,7 +317,7 @@ ul { list-style: none; }
   /* margin-top: 2em; */
   position: relative;
   /*min-height adjustment*/
-  min-height: 120vh;
+  min-height: 100vh;
   display: grid;
   grid-template-columns: 1.1fr 0.9fr;
   align-items: center;
