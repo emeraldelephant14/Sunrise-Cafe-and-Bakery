@@ -314,7 +314,7 @@ ul { list-style: none; }
 /* ---------- Hero ---------- */
 .hero {
   /*change*/
-  margin-top: 2em;
+  /* margin-top: 2em; */
   position: relative;
   /*min-height adjustment*/
   min-height: 120vh;
