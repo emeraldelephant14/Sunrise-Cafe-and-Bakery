@@ -213,6 +213,7 @@ ul { list-style: none; }
   display: flex;
   align-items: center;
   justify-content: space-between;
+  
 }
 
 .nav-logo {
@@ -330,7 +331,9 @@ ul { list-style: none; }
 }
 
 .hero-image-placeholder img {
-  width: 50%;
+  /* fix this*/
+  margin-top: 1em;
+  width: 100%;
   max-width: 520px;
   border-radius: 24px;
   box-shadow: 0 30px 80px rgba(0, 0, 0, 0.18);
@@ -369,6 +372,8 @@ ul { list-style: none; }
 }
 
 .hero-content {
+  /* fix this*/
+  margin-top: 1em;
   position: relative;
   z-index: 3;
   max-width: 800px;
